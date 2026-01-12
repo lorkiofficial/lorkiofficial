@@ -7,9 +7,9 @@ Besides IT, I enjoy studying history, biology(anthropology and genetics), philos
 
 ## I speak
 
-- Russian (Native)
+- Russian  (Native)
 - Ukrainian (C1)
-- English (B1, in active learning)
+- English (B1)
 
 ## I Use
 
@@ -79,17 +79,16 @@ Besides IT, I enjoy studying history, biology(anthropology and genetics), philos
 
 ## You can support me on
 
-1. **MasterCard** 5363 5420 9532 9984
-2. **PayPal** lorkiofficial@gmail.com ([PayPal.me doesn't work in Ukraine](https://www.paypal.com/paypalme/pages/countries))
-3. **Monero** 46Vvmi4pnRggWJjFo3Do4jGAB8eSYvYQvGkEF2xtAqBE9n13GEEPiHn7rU2eSxuTA3HKKwoxhTT2QgGxEwwLhTL99pSbZ4B
-4. **TRON** TJSe7h5gZZFw2QpMWtZtkngZTpGh3nkD8y
+1. **Ko-fi** - [Lorki](https://ko-fi.com/lorki)
+2. **Boosty** - [Lorki](https://boosty.to/lorki)
+3. **MasterCard** - 5363 5420 9532 9984
+4. **PayPal** - lorkiofficial@gmail.com ([PayPal.me doesn't work in Ukraine :{](https://www.paypal.com/paypalme/pages/countries))
+5. **USDT-TRX20** - TJSe7h5gZZFw2QpMWtZtkngZTpGh3nkD8y
+6. **TRON** - TJSe7h5gZZFw2QpMWtZtkngZTpGh3nkD8y
+7. **Monero** - 42v4nxWgbAbWmFcwefMEXdjia5wDD7SFKPyEkPn2gcbCE7Hts8j8xxNA3ohRMZNTTYfg6CsvbXTFi8vziKbMVCYWL33V1ah
 
 ## My Coding Stats
 
 [![wakatime](https://wakatime.com/badge/user/3aa1301f-9dfd-4543-bcdf-91d0911648d2.svg)](https://wakatime.com/@3aa1301f-9dfd-4543-bcdf-91d0911648d2)
-
-![langs stat](https://github-readme-stats-sigma-sandy.vercel.app//api/top-langs/?username=LorkiVG&theme=tokyonight&langs_count=10&layout=compact&border_color=181825&bg_color=181825&icon_color=6189da)
-
-![repo stat](https://github-readme-stats-sigma-sandy.vercel.app/api?username=LorkiVG&theme=tokyonight&show_icons=true&count_private=true&count_private=true&border_color=181825&bg_color=181825&icon_color=6189da)
 
 ![wakatime stat](https://github-readme-stats-sigma-sandy.vercel.app/api/wakatime?username=lorki&theme=tokyonight&langs_count=10&layout=compact&border_color=181825&bg_color=181825&icon_color=6189da)
